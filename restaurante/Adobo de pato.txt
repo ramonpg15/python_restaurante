@@ -1,0 +1,3 @@
+Nombre:Adobo de pato
+Categoria:Carnes
+Precio:150
